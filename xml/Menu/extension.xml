@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/pcpc</path>
+    <page_callback>CRM_Extension_Page_Pcpc</page_callback>
+    <title>Pcpc</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
